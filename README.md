@@ -23,6 +23,9 @@ Open the file and use the slicers to filter the data based on your interest.
 Explore different visualizations to gain insights into the factors driving hotel booking cancellations.
 
 
+![DashBoard](https://github.com/user-attachments/assets/99c4615e-dca1-4f26-a068-e16b7a151891)
+
+
 
 
 
